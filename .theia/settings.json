@@ -4,4 +4,13 @@
   "emmet.includeLanguages": {
     "erb": "html"
   },
+  "solargraph.commandPath": "",
+  "solargraph.checkGemVersion": false,
+  "solargraph.completion": false,
+  "solargraph.definitions": false,
+  "solargraph.references": false,
+  "solargraph.rename": false,
+  "solargraph.symbols": false,
+  "solargraph.hover": false,
+  "solargraph.folding": false,
 }
